@@ -1,0 +1,9 @@
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Release\Carregar de Bateria Fotovoltaico.exe.config
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Release\Carregar de Bateria Fotovoltaico.exe
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Release\Carregar de Bateria Fotovoltaico.pdb
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar_de_Bateria_Fotovoltaico.Principal.resources
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar_de_Bateria_Fotovoltaico.Properties.Resources.resources
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar de Bateria Fotovoltaico.csproj.GenerateResource.cache
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar de Bateria Fotovoltaico.csproj.CoreCompileInputs.cache
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar de Bateria Fotovoltaico.exe
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Release\Carregar de Bateria Fotovoltaico.pdb

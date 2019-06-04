@@ -1,0 +1,20 @@
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.exe.config
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.exe
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.pdb
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csprojAssemblyReference.cache
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregar_de_Bateria_Fotovoltaico.Principal.resources
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregar_de_Bateria_Fotovoltaico.Properties.Resources.resources
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csproj.GenerateResource.cache
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csproj.CoreCompileInputs.cache
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregar de Bateria Fotovoltaico.exe
+C:\Users\CX61\Documents\Visual Studio 2017\Projects\Carregar de Bateria Fotovoltaico\Carregar de Bateria Fotovoltaico\obj\Debug\Carregar de Bateria Fotovoltaico.pdb
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.exe.config
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.exe
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\bin\Debug\Carregar de Bateria Fotovoltaico.pdb
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csprojAssemblyReference.cache
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregador_de_Bateria_Fotovoltaico.Principal.resources
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregar_de_Bateria_Fotovoltaico.Properties.Resources.resources
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csproj.GenerateResource.cache
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregador de Bateria Fotovoltaico.csproj.CoreCompileInputs.cache
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregar de Bateria Fotovoltaico.exe
+D:\Projetos\Carregador de Bateria Fotovoltaico\Carregador de Bateria Fotovoltaico\obj\Debug\Carregar de Bateria Fotovoltaico.pdb
